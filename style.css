@@ -54,8 +54,7 @@ html {
 }
 
 .background {
-    transform: translateZ(-40px) scale(5);   /* Distance to which my mountain shgo backward */
-    z-index: -1;    
+    transform: translateZ(-40px) scale(5.1);   /* Distance to which my mountain shgo backward */  
 }
 
 .foreground {
